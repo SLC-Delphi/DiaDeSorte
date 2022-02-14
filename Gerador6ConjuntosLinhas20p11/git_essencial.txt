@@ -1,0 +1,11 @@
+git init
+git status
+git add "nome arquivo"
+git add .
+git commit -m "comentario"
+git remote add REPOSITORIO
+git push
+git reflog
+git log
+git remote -v
+git remote show
