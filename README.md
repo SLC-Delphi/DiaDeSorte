@@ -11,3 +11,5 @@ Observação: Delphi XE8 (object pascal) ou superior. Compilar para WIN64 e o co
 Observação 1: Serviço desenvolvido aos finais de semana.
 
 Observação 2: Concluído.
+
+Observação 3: Delphi XE8 (object pascal) ou superior. Compilar para WIN64 e o computador utilizado deve ter pelo menos 6GB de Ram.
