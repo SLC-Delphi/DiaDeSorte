@@ -6,7 +6,7 @@ Trabalho visando algoritmos estatísticos, que é justamente o desafio deste ser
 O banco de dados, que se encontra aqui neste repositório,  DIADESORTE.FDB deve ser colocado, obrigatóriamente, na pasta: C:\Programacao\DiaDeSorte
 
 
-Observação: Delphi XE8 ou superior. Compilar para WIN64 e o computador utilizado deve ter pelo menos 8GB de Ram.
+Observação: Delphi XE8 (object pascal) ou superior. Compilar para WIN64 e o computador utilizado deve ter pelo menos 8GB de Ram.
 
 Observação 1: Serviço desenvolvido aos finais de semana.
 
