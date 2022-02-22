@@ -9,4 +9,5 @@ O banco de dados, que se encontra aqui neste repositório,  DIADESORTE.FDB deve 
 Observação: Delphi XE8 ou superior. Compilar para WIN64 e o computador utilizado deve ter pelo menos 8GB de Ram.
 
 Observação 1: Serviço desenvolvido aos finais de semana.
-Observação 3: Concluído.
+
+Observação 2: Concluído.
